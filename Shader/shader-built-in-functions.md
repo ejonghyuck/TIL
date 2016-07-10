@@ -160,5 +160,5 @@ abs(ddx(x))+abs(ddy(x))를 반환한다.
 eta로 주어진 n과 i 사이의 각도가 너무 크다면 refract는 (0, 0, 0)을 반환한다.
 
 ## Refs
-[쉐이더 내장함수](http://blog.naver.com/inushaha/10020452097)
-[HLSL의 내장함수](http://indra207.egloos.com/4856054)
+* [쉐이더 내장함수](http://blog.naver.com/inushaha/10020452097)
+* [HLSL의 내장함수](http://indra207.egloos.com/4856054)
