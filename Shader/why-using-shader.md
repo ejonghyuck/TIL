@@ -40,3 +40,7 @@ CPU에게 모든 픽셀을 그리게 하는 것은 분명 가혹한 행위일 �
 즉 소프트웨어 레벨이 아닌 하드웨어 레벨에서 수학 연산을 진행하기 때문에 훨씬 더 빠르게 삼각함수, 매트릭스 연산을 수행할 수 있다.
 
 그래서 그래픽 렌더링은 CPU에서 직접 계산하는 것보다 GPU에서 처리되는 쉐이더가 훨씬 빠른 것이다.
+
+## Refs
+* [Fragment shader는 무엇인가? (The books of shader)](http://thebookofshaders.com/01/)
+* [GPU 컴퓨팅이란? (nVidia)](http://kr.nvidia.com/object/what-is-gpu-computing-kr.html)
