@@ -7,4 +7,7 @@
 * GLSL
     * [uniform, attribute, varying에 대해](glsl-uniform-attribute-varying.md)
 * Shadertoy 작품
+    * 냥캣 관련
+        * [냥캣 스프라이트를 화면에 표시](shadertoy-nyan-static.md)
+        * [냥캣 스프라이트에서 애니메이션 적용](shadertoy-nyan-animate.md)
     * [Playstation3 홈 배경화면](ps3-home-background.md)
