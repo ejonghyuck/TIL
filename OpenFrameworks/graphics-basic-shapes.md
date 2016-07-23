@@ -63,3 +63,6 @@ ofDrawLine(700, 200, 700, 300);
 ```
 
 ![](images/graphics-basic-shapes-03.png)
+
+## Refs
+* [ofBook - Graphics](http://openframeworks.cc/ofBook/chapters/intro_to_graphics.html)
