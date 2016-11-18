@@ -5,3 +5,4 @@
     * Statements & declarations
         * [for...in](for-in.md)
         * [for...of](for-of.md)
+        * [function*](generator-function.md)
