@@ -58,3 +58,6 @@ React.js에서 브라우저상의 실제 DOM을 업데이트 할 때에는 아�
 ## 단점
 * 어플리케이션의 View 레이어에 대한 부분만 다루기 때문에 그 외의 부분에 대해선 직접 구현하거나 다른 기술을 사용해야 한다
 * v15 버전 이후로 Internet Explorer 8 이하 버전을 지원하지 않는다
+
+## Refs
+* [[React.JS] 강좌 1편 소개 및 맛보기(Velopert)](https://velopert.com/775)
