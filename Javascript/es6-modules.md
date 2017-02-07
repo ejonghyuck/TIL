@@ -111,3 +111,6 @@ import {
 // 아래처럼 import만 하는 것도 좋다.
 import 'my-module';
 ```
+
+## Refs
+* [ES6: Modules (import & export) (꿀벌개발일지)](http://ohgyun.com/588)
